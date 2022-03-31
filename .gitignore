@@ -1,0 +1,5 @@
+node_modules
+angularclient/.angular
+angularclient/.vscode
+angularclient/node_modules
+bin
